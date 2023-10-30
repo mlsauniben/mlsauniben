@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Apprentice-doa/Apprentice-doa/blob/main/Daniel%20Coverphoto%20linkedin.png)](https://bit.ly/daniel-akhabue)
+[![MasterHead](https://github.com/mlsauniben/mlsauniben/blob/main/mlsa%20banner.jpg)](https://twitter.com/mlsauniben)
 <h1 align="center">Hi 👋, Welcome to the official GitHub Repository of MLSA UNIBEN </h1>
 <h3 align="center">We are a community of solution-driven student innovators building solutions using Microsoft technologies.</h3>
 
