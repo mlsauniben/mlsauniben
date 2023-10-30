@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, Welcome to the official GitHub Repository of MLSA UNIBEN </h1>
 <h3 align="center">We are a community of solution-driven student innovators building solutions using Microsoft technologies.</h3>
 
-<p> <img align="right" alt="Coding" width="400" src="https://media.tenor.com/wA8Gx_UqnY4AAAAC/coding.gif"> </p>
+<p> <img align="right" alt="Coding" width="400" src="https://github.com/mlsauniben/mlsauniben/blob/main/mlsa%20uniben2.jpg"> </p>
 
 - 🔭 I’m currently working on **Computer Vision, Natural Language Processing, LLMs, GANs, MLOps.** 
 
